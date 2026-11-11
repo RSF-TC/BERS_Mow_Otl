@@ -1,2 +1,2 @@
 # BERS_Mow_Otl
-shared parameter lijst conform de BERS om met de OTL van AWV te werken
+shared parameter lijst conform de BERS om met de OTL van MOW ( Ministerie Openbare Werken) te werken
